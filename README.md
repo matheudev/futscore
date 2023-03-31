@@ -4,7 +4,7 @@
 
 O futebol é uma paixão nacional no Brasil e movimenta não apenas os estádios, mas também a economia, o turismo e o entretenimento. Diante disso, torna-se fundamental a existência de uma plataforma que ofereça informações atualizadas e completas sobre o universo do futebol brasileiro para os amantes desse esporte.
 
-Nesse contexto, o aplicativo FutScore surge como uma solução inovadora e abrangente para os fãs do futebol brasileiro, oferecendo placares ao vivo, tabelas, jogos futuros, informações sobre times e muito mais. O objetivo é fornecer aos usuários um ambiente digital seguro e confiável, onde eles possam se manter informados e engajados com o esporte que amam.
+Nesse contexto, o aplicativo FutScore surge como uma solução acessível e abrangente para os fãs do futebol brasileiro, oferecendo placares ao vivo, tabelas, jogos futuros, informações sobre times e muito mais. O objetivo é fornecer aos usuários um ambiente digital seguro e confiável, onde eles possam se manter informados e engajados com o esporte que amam.
 
 ## Problema
 
@@ -18,7 +18,6 @@ O objetivo geral do FutScore é a criação de um aplicativo completo e atualiza
 
 - Disponibilizar informações atualizadas sobre placares, tabelas, jogos futuros e informações sobre times;
 - Oferecer uma interface amigável e intuitiva para facilitar a navegação e interação dos usuários;
-- Integrar o aplicativo com redes sociais, permitindo o compartilhamento de informações e a interação com outros fãs do futebol;
 - Desenvolver um aplicativo responsivo e adaptável para dispositivos móveis e desktops.
 
 ## Justificativa
