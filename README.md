@@ -22,7 +22,7 @@ O objetivo geral do FutScore é a criação de um aplicativo completo e atualiza
 
 ## Justificativa
 
-A crescente demanda por informações atualizadas e confiáveis sobre o futebol brasileiro evidencia a necessidade de um aplicativo como o FutScore. Além disso, a popularidade do esporte no país e a diversidade de campeonatos e times tornam o projeto ainda mais relevante e necessário para o público-alvo.
+A crescente demanda por informações atualizadas e confiáveis sobre o futebol brasileiro evidencia a necessidade de um site como o FutScore. Além disso, a popularidade do esporte no país e a diversidade de campeonatos e times tornam o projeto ainda mais relevante e necessário para o público-alvo.
 
 ## Público alvo
 
