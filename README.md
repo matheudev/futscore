@@ -6,7 +6,7 @@ Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10
 
 1° Semestre de 2023
 
-[[https://github.com/matheudev/futscore/blob/main/docs/img/futscore.jpg|alt=futscore]]
+![futscore](https://raw.githubusercontent.com/matheudev/futscore/main/docs/img/futscore.jpg)
 
 ## Integrantes
 
