@@ -8,7 +8,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 |            | Henrique Silva                       | Júlia Pereira                        |
 |------------|-----------------------------------|-------------------------------------|
-|            | <div align="center"><img src="https://github.com/matheudev/futscore/blob/main/img%201.png" width="300" title="Henrique Silva"></div> | <div align="center"><img src="https://github.com/matheudev/futscore/blob/main/img%202.png" width="300" title="Júlia Pereira"></div> |
+|            | <div align="center"><img src="https://github.com/matheudev/futscore/blob/main/docs/img/persona%201.png" width="300" title="Henrique Silva"></div> | <div align="center"><img src="https://github.com/matheudev/futscore/blob/main/docs/img/persona%202.png" width="300" title="Júlia Pereira"></div> |
 | Idade      | 28                                | 35                                  |
 | Ocupação   | Professor de Educação Física, trabalha em uma escola de ensino fundamental | Jornalista esportivo, cobre campeonatos nacionais e internacionais para uma emissora de televisão |
 | Aplicativos | ● Instagram <br> ● TikTok | ● Facebook <br> ● Linkedin |
