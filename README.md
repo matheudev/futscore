@@ -1,5 +1,13 @@
 # FutScore
 
+Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10
+
+1° Semestre de 2023
+
+[[/docs/img/futscore.jpg|FutScore]]
+
 ## Documentação de Contexto
 
 O futebol é uma paixão nacional no Brasil e movimenta não apenas os estádios, mas também a economia, o turismo e o entretenimento. Diante disso, torna-se fundamental a existência de uma plataforma que ofereça informações atualizadas e completas sobre o universo do futebol brasileiro para os amantes desse esporte.
