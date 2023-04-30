@@ -20,10 +20,6 @@ Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10
 
 - Vitor Mangaravite
 
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
 ## Documentação
 
 1. [Documentação de Contexto](https://github.com/matheudev/futscore/blob/main/docs/01%20-%20Documenta%C3%A7%C3%A3o%20de%20Contexto.md)
